@@ -74,6 +74,17 @@ Zoom-in and zoom-out controls.
 A details section for displaying information about a selected location.
 The final output demonstrated how the project data and website code worked together to present location information through an interactive map.
 
+How to Run the Project
+
+Install Git and Visual Studio Code.
+Clone or download the project repository.
+Open the project folder in VS Code.
+Confirm that the land-intelligence.json file is inside the data folder.
+Confirm that the paths used in app.js match the actual project structure.
+Start the local server using the method configured for the project.
+Open the localhost address provided by the server in Google Chrome.
+
+Search for a location, select it, and explore the map and available details.
 Key Learning Outcomes
 Through this project, we gained practical experience in organizing project files, preparing data for a web application, connecting JavaScript to a JSON dataset, running a local development server, and testing an interactive map in a browser.
 The process also helped us understand how data preparation, web development, and geospatial visualization can work together to present land-related information in a user-friendly format.
