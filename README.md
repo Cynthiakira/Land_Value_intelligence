@@ -1,0 +1,2 @@
+# Land_Value_intelligence
+FINAL RESULT OF THIS WONDERFUL LAND ANALYSIS
