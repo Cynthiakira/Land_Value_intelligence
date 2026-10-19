@@ -59,7 +59,7 @@ The HTTP status code 200 shown in the terminal indicates that these requests wer
 
 Step 6: Opening the Localhost Link in Google Chrome
 After starting the server, we opened the local website address in Google Chrome:
-http://localhost:5500/land-intelligence/
+[http://localhost:5500/land-intelligence/](https://cynthiakira.github.io/Land_Value_intelligence-WEBGIS-/)
 
 This allowed us to view the website as a user would see it in a browser.
 The localhost address is for local testing on the computer running the server; it is not a permanent public website link.
